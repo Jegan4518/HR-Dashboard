@@ -1,13 +1,16 @@
 # HR-Dashboard
-This repository contains Tableau dashboard which relates to the employees 
+ This repository contains Tableau dashboard which relates to the employees actions insights based on their Education Qualifiction,Performance
+rating and salary
 
- Folder Instructions:
-      * In folder dataset, the data used in this project is placed as csv file.This is taken from Data with Barra website  
-      * In folder dashboard, the raw data converted to Visualization by using Tableau
+**Objective**
+  To provide insights to management from their employee actions by using Tableau
 
-Instructions to view the dashboard:
-      * Download the HR dashboard.twbx file
-      * Open the file in Tableau public or Tableau Desktop to view the dashboard
+ **
+  
+
+
+
+
 
        
       
